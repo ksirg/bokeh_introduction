@@ -14,3 +14,9 @@ List of examples:
 * Interactive linked plots - changes on one plots are shown on another
 * Stock closing prices for Apple, IBM, Microsoft, Google from http://ichart.yahoo.com
 * Moving average for stock prices
+* 
+
+## Grab the code:
+
+* code available on github: https://github.com/ksirg/bokeh_introduction
+* run the cod in PLON.io : https://plon.io/explore/python-bokeh-intorduction/n7Unr9EE65GXAqC2C
